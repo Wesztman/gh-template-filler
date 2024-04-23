@@ -1,6 +1,6 @@
 use std::io;
 
-// https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html
+// Current chapter: https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html#testing-the-first-part
 fn main() {
     println!("Guess the number!");
     println!("Please input your guess.");
